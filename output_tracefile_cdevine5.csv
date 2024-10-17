@@ -1,0 +1,260 @@
+ProbNum=3, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=1, TotalLiterals=18, Satisfiability=U, Time=123 μs
+ProbNum=4, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=2, TotalLiterals=18, Satisfiability=S, Time=16 μs, Assignment=1,0,0,0
+ProbNum=5, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=3, TotalLiterals=18, Satisfiability=S, Time=39 μs, Assignment=0,0,1,1
+ProbNum=6, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=4, TotalLiterals=18, Satisfiability=S, Time=45 μs, Assignment=1,1,0,1
+ProbNum=7, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=5, TotalLiterals=18, Satisfiability=S, Time=3 μs, Assignment=0,0,0,0
+ProbNum=8, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=6, TotalLiterals=18, Satisfiability=U, Time=109 μs
+ProbNum=9, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=7, TotalLiterals=18, Satisfiability=U, Time=102 μs
+ProbNum=10, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=8, TotalLiterals=18, Satisfiability=U, Time=105 μs
+ProbNum=11, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=9, TotalLiterals=18, Satisfiability=S, Time=5 μs, Assignment=0,0,0,0
+ProbNum=12, NumVars=4, NumClauses=9, LitsPerClause=2, TrialNum=10, TotalLiterals=18, Satisfiability=S, Time=12 μs, Assignment=1,0,0,0
+# Satisfied = 6. # Unsatisfied = 4
+Max Sat Time = 45. Max Unsat Time = 123
+Ave Sat Time = 12.0. Ave UnSat Time = 43.9
+ProbNum=13, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=1, TotalLiterals=24, Satisfiability=S, Time=41 μs, Assignment=0,0,0,1,0,0
+ProbNum=14, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=2, TotalLiterals=24, Satisfiability=U, Time=434 μs
+ProbNum=15, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=3, TotalLiterals=24, Satisfiability=S, Time=203 μs, Assignment=0,0,1,1,0,1
+ProbNum=16, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=4, TotalLiterals=24, Satisfiability=U, Time=633 μs
+ProbNum=17, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=5, TotalLiterals=24, Satisfiability=U, Time=459 μs
+ProbNum=18, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=6, TotalLiterals=24, Satisfiability=U, Time=484 μs
+ProbNum=19, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=7, TotalLiterals=24, Satisfiability=U, Time=509 μs
+ProbNum=20, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=8, TotalLiterals=24, Satisfiability=S, Time=172 μs, Assignment=0,0,0,0,1,1
+ProbNum=21, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=9, TotalLiterals=24, Satisfiability=U, Time=483 μs
+ProbNum=22, NumVars=6, NumClauses=12, LitsPerClause=2, TrialNum=10, TotalLiterals=24, Satisfiability=S, Time=60 μs, Assignment=0,0,0,0,1,0
+# Satisfied = 4. # Unsatisfied = 6
+Max Sat Time = 203. Max Unsat Time = 633
+Ave Sat Time = 47.6. Ave UnSat Time = 300.2
+ProbNum=23, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=1, TotalLiterals=28, Satisfiability=S, Time=334 μs, Assignment=1,1,0,1,1,0,1,0
+ProbNum=24, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=2, TotalLiterals=28, Satisfiability=S, Time=164 μs, Assignment=0,0,0,0,0,1,0,0
+ProbNum=25, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=3, TotalLiterals=28, Satisfiability=S, Time=345 μs, Assignment=0,0,0,1,0,0,1,0
+ProbNum=26, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=4, TotalLiterals=28, Satisfiability=U, Time=2182 μs
+ProbNum=27, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=5, TotalLiterals=28, Satisfiability=S, Time=746 μs, Assignment=0,1,1,0,1,0,1,1
+ProbNum=28, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=6, TotalLiterals=28, Satisfiability=S, Time=155 μs, Assignment=1,1,0,1,1,0,0,0
+ProbNum=29, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=7, TotalLiterals=28, Satisfiability=S, Time=507 μs, Assignment=0,0,1,0,0,0,0,1
+ProbNum=30, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=8, TotalLiterals=28, Satisfiability=S, Time=587 μs, Assignment=0,0,0,1,1,0,0,1
+ProbNum=31, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=9, TotalLiterals=28, Satisfiability=S, Time=96 μs, Assignment=0,1,0,1,1,0,0,0
+ProbNum=32, NumVars=8, NumClauses=14, LitsPerClause=2, TrialNum=10, TotalLiterals=28, Satisfiability=U, Time=2140 μs
+# Satisfied = 8. # Unsatisfied = 2
+Max Sat Time = 746. Max Unsat Time = 2182
+Ave Sat Time = 293.4. Ave UnSat Time = 432.2
+ProbNum=33, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=1, TotalLiterals=32, Satisfiability=S, Time=1320 μs, Assignment=0,0,0,0,1,0,1,0,1,0
+ProbNum=34, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=2, TotalLiterals=32, Satisfiability=S, Time=120 μs, Assignment=1,0,0,0,1,0,0,0,0,0
+ProbNum=35, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=3, TotalLiterals=32, Satisfiability=S, Time=298 μs, Assignment=0,1,1,1,0,0,1,0,0,0
+ProbNum=36, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=4, TotalLiterals=32, Satisfiability=S, Time=536 μs, Assignment=1,0,0,1,0,0,0,1,0,0
+ProbNum=37, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=5, TotalLiterals=32, Satisfiability=S, Time=1372 μs, Assignment=1,0,0,1,0,1,1,0,1,0
+ProbNum=38, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=6, TotalLiterals=32, Satisfiability=S, Time=185 μs, Assignment=0,0,1,0,1,1,0,0,0,0
+ProbNum=39, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=7, TotalLiterals=32, Satisfiability=U, Time=9246 μs
+ProbNum=40, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=8, TotalLiterals=32, Satisfiability=S, Time=184 μs, Assignment=0,1,0,1,0,1,0,0,0,0
+ProbNum=41, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=9, TotalLiterals=32, Satisfiability=S, Time=178 μs, Assignment=0,1,0,0,0,0,1,0,0,0
+ProbNum=42, NumVars=10, NumClauses=16, LitsPerClause=2, TrialNum=10, TotalLiterals=32, Satisfiability=S, Time=242 μs, Assignment=0,0,0,1,1,1,0,0,0,0
+# Satisfied = 9. # Unsatisfied = 1
+Max Sat Time = 1372. Max Unsat Time = 9246
+Ave Sat Time = 443.5. Ave UnSat Time = 924.6
+ProbNum=43, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=1, TotalLiterals=36, Satisfiability=S, Time=14342 μs, Assignment=1,1,0,0,0,0,0,1,0,1,0,1
+ProbNum=44, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=2, TotalLiterals=36, Satisfiability=U, Time=34129 μs
+ProbNum=45, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=3, TotalLiterals=36, Satisfiability=S, Time=499 μs, Assignment=0,1,0,0,0,1,0,1,0,0,0,0
+ProbNum=46, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=4, TotalLiterals=36, Satisfiability=S, Time=507 μs, Assignment=0,1,0,0,1,1,1,0,0,0,0,0
+ProbNum=47, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=5, TotalLiterals=36, Satisfiability=U, Time=26760 μs
+ProbNum=48, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=6, TotalLiterals=36, Satisfiability=S, Time=2145 μs, Assignment=1,0,1,0,0,1,1,0,0,1,0,0
+ProbNum=49, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=7, TotalLiterals=36, Satisfiability=U, Time=29826 μs
+ProbNum=50, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=8, TotalLiterals=36, Satisfiability=S, Time=8597 μs, Assignment=1,1,0,0,1,1,0,1,0,0,0,1
+ProbNum=51, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=9, TotalLiterals=36, Satisfiability=S, Time=2189 μs, Assignment=0,0,0,0,0,1,0,0,1,1,0,0
+ProbNum=52, NumVars=12, NumClauses=18, LitsPerClause=2, TrialNum=10, TotalLiterals=36, Satisfiability=U, Time=30066 μs
+# Satisfied = 6. # Unsatisfied = 4
+Max Sat Time = 14342. Max Unsat Time = 34129
+Ave Sat Time = 2827.9. Ave UnSat Time = 12078.1
+ProbNum=53, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=1, TotalLiterals=40, Satisfiability=S, Time=10638 μs, Assignment=0,0,1,1,0,0,1,0,1,0,0,1,0,0
+ProbNum=54, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=2, TotalLiterals=40, Satisfiability=S, Time=35100 μs, Assignment=0,0,0,0,1,1,1,1,1,0,1,0,0,1
+ProbNum=55, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=3, TotalLiterals=40, Satisfiability=S, Time=47565 μs, Assignment=1,1,1,1,1,1,0,0,1,1,1,0,0,1
+ProbNum=56, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=4, TotalLiterals=40, Satisfiability=S, Time=25385 μs, Assignment=0,0,1,1,0,0,1,0,0,0,0,1,1,0
+ProbNum=57, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=5, TotalLiterals=40, Satisfiability=S, Time=11631 μs, Assignment=1,1,0,1,0,1,1,0,0,1,0,1,0,0
+ProbNum=58, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=6, TotalLiterals=40, Satisfiability=U, Time=137818 μs
+ProbNum=59, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=7, TotalLiterals=40, Satisfiability=U, Time=133873 μs
+ProbNum=60, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=8, TotalLiterals=40, Satisfiability=S, Time=8460 μs, Assignment=0,0,0,0,0,0,0,0,1,0,0,1,0,0
+ProbNum=61, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=9, TotalLiterals=40, Satisfiability=U, Time=125918 μs
+ProbNum=62, NumVars=14, NumClauses=20, LitsPerClause=2, TrialNum=10, TotalLiterals=40, Satisfiability=U, Time=130090 μs
+# Satisfied = 6. # Unsatisfied = 4
+Max Sat Time = 47565. Max Unsat Time = 137818
+Ave Sat Time = 13877.9. Ave UnSat Time = 52769.9
+ProbNum=63, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=1, TotalLiterals=52, Satisfiability=U, Time=490285 μs
+ProbNum=64, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=2, TotalLiterals=52, Satisfiability=S, Time=2049 μs, Assignment=0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ProbNum=65, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=3, TotalLiterals=52, Satisfiability=U, Time=734958 μs
+ProbNum=66, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=4, TotalLiterals=52, Satisfiability=U, Time=915136 μs
+ProbNum=67, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=5, TotalLiterals=52, Satisfiability=S, Time=137017 μs, Assignment=0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0
+ProbNum=68, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=6, TotalLiterals=52, Satisfiability=S, Time=35648 μs, Assignment=1,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0
+ProbNum=69, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=7, TotalLiterals=52, Satisfiability=S, Time=354837 μs, Assignment=0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1
+ProbNum=70, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=8, TotalLiterals=52, Satisfiability=U, Time=821636 μs
+ProbNum=71, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=9, TotalLiterals=52, Satisfiability=U, Time=481011 μs
+ProbNum=72, NumVars=16, NumClauses=26, LitsPerClause=2, TrialNum=10, TotalLiterals=52, Satisfiability=S, Time=10184 μs, Assignment=1,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0
+# Satisfied = 5. # Unsatisfied = 5
+Max Sat Time = 354837. Max Unsat Time = 915136
+Ave Sat Time = 53973.5. Ave UnSat Time = 344302.6
+ProbNum=73, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=1, TotalLiterals=56, Satisfiability=S, Time=124979 μs, Assignment=1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+ProbNum=74, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=2, TotalLiterals=56, Satisfiability=U, Time=1963945 μs
+ProbNum=75, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=3, TotalLiterals=56, Satisfiability=S, Time=987833 μs, Assignment=1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1,1
+ProbNum=76, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=4, TotalLiterals=56, Satisfiability=U, Time=2039607 μs
+ProbNum=77, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=5, TotalLiterals=56, Satisfiability=S, Time=336057 μs, Assignment=0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+ProbNum=78, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=6, TotalLiterals=56, Satisfiability=U, Time=1991772 μs
+ProbNum=79, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=7, TotalLiterals=56, Satisfiability=S, Time=553066 μs, Assignment=0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1
+ProbNum=80, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=8, TotalLiterals=56, Satisfiability=S, Time=331129 μs, Assignment=0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1
+ProbNum=81, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=9, TotalLiterals=56, Satisfiability=S, Time=146970 μs, Assignment=1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0
+ProbNum=82, NumVars=18, NumClauses=28, LitsPerClause=2, TrialNum=10, TotalLiterals=56, Satisfiability=S, Time=301446 μs, Assignment=1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0
+# Satisfied = 7. # Unsatisfied = 3
+Max Sat Time = 987833. Max Unsat Time = 2039607
+Ave Sat Time = 278148.0. Ave UnSat Time = 599532.4
+ProbNum=83, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=1, TotalLiterals=60, Satisfiability=S, Time=3608173 μs, Assignment=1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1
+ProbNum=84, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=2, TotalLiterals=60, Satisfiability=S, Time=627577 μs, Assignment=0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+ProbNum=85, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=3, TotalLiterals=60, Satisfiability=S, Time=900180 μs, Assignment=1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+ProbNum=86, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=4, TotalLiterals=60, Satisfiability=U, Time=9527579 μs
+ProbNum=87, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=5, TotalLiterals=60, Satisfiability=S, Time=2652036 μs, Assignment=0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+ProbNum=88, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=6, TotalLiterals=60, Satisfiability=S, Time=1312712 μs, Assignment=0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0
+ProbNum=89, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=7, TotalLiterals=60, Satisfiability=U, Time=9943361 μs
+ProbNum=90, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=8, TotalLiterals=60, Satisfiability=S, Time=1079088 μs, Assignment=0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+ProbNum=91, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=9, TotalLiterals=60, Satisfiability=S, Time=311475 μs, Assignment=1,0,1,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0
+ProbNum=92, NumVars=20, NumClauses=30, LitsPerClause=2, TrialNum=10, TotalLiterals=60, Satisfiability=S, Time=264420 μs, Assignment=0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+# Satisfied = 8. # Unsatisfied = 2
+Max Sat Time = 3608173. Max Unsat Time = 9943361
+Ave Sat Time = 1075566.1. Ave UnSat Time = 1947094.0
+ProbNum=93, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=1, TotalLiterals=64, Satisfiability=S, Time=12698600 μs, Assignment=0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+ProbNum=94, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=2, TotalLiterals=64, Satisfiability=S, Time=2215934 μs, Assignment=0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0
+ProbNum=95, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=3, TotalLiterals=64, Satisfiability=S, Time=4028017 μs, Assignment=1,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+ProbNum=96, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=4, TotalLiterals=64, Satisfiability=S, Time=465054 μs, Assignment=0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+ProbNum=97, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=5, TotalLiterals=64, Satisfiability=U, Time=37726824 μs
+ProbNum=98, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=6, TotalLiterals=64, Satisfiability=U, Time=42367730 μs
+ProbNum=99, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=7, TotalLiterals=64, Satisfiability=S, Time=889683 μs, Assignment=0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+ProbNum=100, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=8, TotalLiterals=64, Satisfiability=S, Time=1561085 μs, Assignment=0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ProbNum=101, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=9, TotalLiterals=64, Satisfiability=S, Time=7510576 μs, Assignment=1,1,1,0,1,0,1,0,0,1,0,0,1,0,1,0,0,1,0,1,1,0
+ProbNum=102, NumVars=22, NumClauses=32, LitsPerClause=2, TrialNum=10, TotalLiterals=64, Satisfiability=S, Time=2130607 μs, Assignment=0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+# Satisfied = 8. # Unsatisfied = 2
+Max Sat Time = 12698600. Max Unsat Time = 42367730
+Ave Sat Time = 3149955.6. Ave UnSat Time = 8009455.4
+ProbNum=103, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=1, TotalLiterals=27, Satisfiability=S, Time=19 μs, Assignment=1,0,0,0
+ProbNum=104, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=2, TotalLiterals=27, Satisfiability=S, Time=7 μs, Assignment=0,0,0,0
+ProbNum=105, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=3, TotalLiterals=27, Satisfiability=S, Time=15 μs, Assignment=1,0,0,0
+ProbNum=106, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=4, TotalLiterals=27, Satisfiability=S, Time=36 μs, Assignment=0,0,1,0
+ProbNum=107, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=5, TotalLiterals=27, Satisfiability=S, Time=59 μs, Assignment=1,0,0,1
+ProbNum=108, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=6, TotalLiterals=27, Satisfiability=S, Time=9 μs, Assignment=0,0,0,0
+ProbNum=109, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=7, TotalLiterals=27, Satisfiability=S, Time=9 μs, Assignment=0,0,0,0
+ProbNum=110, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=8, TotalLiterals=27, Satisfiability=S, Time=36 μs, Assignment=0,0,1,0
+ProbNum=111, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=9, TotalLiterals=27, Satisfiability=S, Time=32 μs, Assignment=1,1,0,0
+ProbNum=112, NumVars=4, NumClauses=9, LitsPerClause=3, TrialNum=10, TotalLiterals=27, Satisfiability=S, Time=17 μs, Assignment=0,1,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 59. Max Unsat Time = 0
+Ave Sat Time = 23.9. Ave UnSat Time = 0.0
+ProbNum=113, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=1, TotalLiterals=36, Satisfiability=S, Time=148 μs, Assignment=0,0,1,0,1,0
+ProbNum=114, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=2, TotalLiterals=36, Satisfiability=S, Time=142 μs, Assignment=1,0,1,1,0,0
+ProbNum=115, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=3, TotalLiterals=36, Satisfiability=S, Time=96 μs, Assignment=0,1,1,0,0,0
+ProbNum=116, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=4, TotalLiterals=36, Satisfiability=S, Time=21 μs, Assignment=0,1,0,0,0,0
+ProbNum=117, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=5, TotalLiterals=36, Satisfiability=S, Time=9 μs, Assignment=0,0,0,0,0,0
+ProbNum=118, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=6, TotalLiterals=36, Satisfiability=S, Time=7 μs, Assignment=0,0,0,0,0,0
+ProbNum=119, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=7, TotalLiterals=36, Satisfiability=S, Time=60 μs, Assignment=0,0,1,0,0,0
+ProbNum=120, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=8, TotalLiterals=36, Satisfiability=S, Time=172 μs, Assignment=0,0,1,1,0,0
+ProbNum=121, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=9, TotalLiterals=36, Satisfiability=S, Time=78 μs, Assignment=1,1,1,0,0,0
+ProbNum=122, NumVars=6, NumClauses=12, LitsPerClause=3, TrialNum=10, TotalLiterals=36, Satisfiability=S, Time=9 μs, Assignment=0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 172. Max Unsat Time = 0
+Ave Sat Time = 74.2. Ave UnSat Time = 0.0
+ProbNum=123, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=1, TotalLiterals=42, Satisfiability=S, Time=21 μs, Assignment=1,0,0,0,0,0,0,0
+ProbNum=124, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=2, TotalLiterals=42, Satisfiability=S, Time=36 μs, Assignment=0,1,0,0,0,0,0,0
+ProbNum=125, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=3, TotalLiterals=42, Satisfiability=S, Time=233 μs, Assignment=0,0,0,0,1,0,0,0
+ProbNum=126, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=4, TotalLiterals=42, Satisfiability=S, Time=26 μs, Assignment=1,0,0,0,0,0,0,0
+ProbNum=127, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=5, TotalLiterals=42, Satisfiability=S, Time=408 μs, Assignment=1,0,0,0,0,1,0,0
+ProbNum=128, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=6, TotalLiterals=42, Satisfiability=S, Time=682 μs, Assignment=0,0,0,0,1,0,1,0
+ProbNum=129, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=7, TotalLiterals=42, Satisfiability=S, Time=9 μs, Assignment=0,0,0,0,0,0,0,0
+ProbNum=130, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=8, TotalLiterals=42, Satisfiability=S, Time=508 μs, Assignment=0,0,0,0,0,0,1,0
+ProbNum=131, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=9, TotalLiterals=42, Satisfiability=S, Time=11 μs, Assignment=0,0,0,0,0,0,0,0
+ProbNum=132, NumVars=8, NumClauses=14, LitsPerClause=3, TrialNum=10, TotalLiterals=42, Satisfiability=S, Time=49 μs, Assignment=1,0,1,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 682. Max Unsat Time = 0
+Ave Sat Time = 198.3. Ave UnSat Time = 0.0
+ProbNum=133, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=1, TotalLiterals=48, Satisfiability=S, Time=576 μs, Assignment=0,1,0,0,0,0,0,1,0,0
+ProbNum=134, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=2, TotalLiterals=48, Satisfiability=S, Time=142 μs, Assignment=0,1,0,0,1,0,0,0,0,0
+ProbNum=135, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=3, TotalLiterals=48, Satisfiability=S, Time=229 μs, Assignment=1,1,1,1,1,0,0,0,0,0
+ProbNum=136, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=4, TotalLiterals=48, Satisfiability=S, Time=671 μs, Assignment=1,0,0,1,0,0,1,0,0,0
+ProbNum=137, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=5, TotalLiterals=48, Satisfiability=S, Time=42 μs, Assignment=1,0,1,0,0,0,0,0,0,0
+ProbNum=138, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=6, TotalLiterals=48, Satisfiability=S, Time=329 μs, Assignment=0,1,1,1,0,1,0,0,0,0
+ProbNum=139, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=7, TotalLiterals=48, Satisfiability=S, Time=11 μs, Assignment=0,0,0,0,0,0,0,0,0,0
+ProbNum=140, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=8, TotalLiterals=48, Satisfiability=S, Time=10893 μs, Assignment=0,0,0,1,0,0,0,0,0,1
+ProbNum=141, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=9, TotalLiterals=48, Satisfiability=S, Time=2340 μs, Assignment=1,0,1,0,1,0,0,0,1,0
+ProbNum=142, NumVars=10, NumClauses=16, LitsPerClause=3, TrialNum=10, TotalLiterals=48, Satisfiability=S, Time=86 μs, Assignment=1,1,1,0,0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 10893. Max Unsat Time = 0
+Ave Sat Time = 1531.9. Ave UnSat Time = 0.0
+ProbNum=143, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=1, TotalLiterals=54, Satisfiability=S, Time=260 μs, Assignment=0,0,0,0,1,0,0,0,0,0,0,0
+ProbNum=144, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=2, TotalLiterals=54, Satisfiability=S, Time=27 μs, Assignment=1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=145, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=3, TotalLiterals=54, Satisfiability=S, Time=1150 μs, Assignment=0,1,0,0,0,0,0,1,0,0,0,0
+ProbNum=146, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=4, TotalLiterals=54, Satisfiability=S, Time=43 μs, Assignment=0,0,1,0,0,0,0,0,0,0,0,0
+ProbNum=147, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=5, TotalLiterals=54, Satisfiability=S, Time=31 μs, Assignment=0,1,0,0,0,0,0,0,0,0,0,0
+ProbNum=148, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=6, TotalLiterals=54, Satisfiability=S, Time=121 μs, Assignment=1,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=149, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=7, TotalLiterals=54, Satisfiability=S, Time=296 μs, Assignment=1,0,0,0,0,1,0,0,0,0,0,0
+ProbNum=150, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=8, TotalLiterals=54, Satisfiability=S, Time=5836 μs, Assignment=1,0,0,1,1,0,0,0,0,1,0,0
+ProbNum=151, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=9, TotalLiterals=54, Satisfiability=S, Time=54 μs, Assignment=0,1,0,0,0,0,0,0,0,0,0,0
+ProbNum=152, NumVars=12, NumClauses=18, LitsPerClause=3, TrialNum=10, TotalLiterals=54, Satisfiability=S, Time=991 μs, Assignment=1,0,0,1,0,0,0,1,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 5836. Max Unsat Time = 0
+Ave Sat Time = 880.9. Ave UnSat Time = 0.0
+ProbNum=153, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=1, TotalLiterals=60, Satisfiability=S, Time=77 μs, Assignment=1,0,1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=154, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=2, TotalLiterals=60, Satisfiability=S, Time=15 μs, Assignment=0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=155, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=3, TotalLiterals=60, Satisfiability=S, Time=7804 μs, Assignment=1,1,0,0,0,0,1,1,0,1,0,0,0,0
+ProbNum=156, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=4, TotalLiterals=60, Satisfiability=S, Time=254 μs, Assignment=0,1,0,1,1,0,0,0,0,0,0,0,0,0
+ProbNum=157, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=5, TotalLiterals=60, Satisfiability=S, Time=19 μs, Assignment=0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=158, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=6, TotalLiterals=60, Satisfiability=S, Time=566 μs, Assignment=0,1,0,1,0,1,0,0,0,0,0,0,0,0
+ProbNum=159, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=7, TotalLiterals=60, Satisfiability=S, Time=201 μs, Assignment=0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ProbNum=160, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=8, TotalLiterals=60, Satisfiability=S, Time=1055 μs, Assignment=0,0,1,0,0,0,0,1,0,0,0,0,0,0
+ProbNum=161, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=9, TotalLiterals=60, Satisfiability=S, Time=237 μs, Assignment=1,0,0,1,1,0,0,0,0,0,0,0,0,0
+ProbNum=162, NumVars=14, NumClauses=20, LitsPerClause=3, TrialNum=10, TotalLiterals=60, Satisfiability=S, Time=8257 μs, Assignment=1,0,0,0,0,0,1,1,0,1,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 8257. Max Unsat Time = 0
+Ave Sat Time = 1848.5. Ave UnSat Time = 0.0
+ProbNum=163, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=1, TotalLiterals=78, Satisfiability=S, Time=293 μs, Assignment=1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=164, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=2, TotalLiterals=78, Satisfiability=S, Time=4706 μs, Assignment=1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+ProbNum=165, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=3, TotalLiterals=78, Satisfiability=S, Time=1685 μs, Assignment=0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=166, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=4, TotalLiterals=78, Satisfiability=S, Time=16179 μs, Assignment=0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+ProbNum=167, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=5, TotalLiterals=78, Satisfiability=S, Time=25807 μs, Assignment=0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+ProbNum=168, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=6, TotalLiterals=78, Satisfiability=S, Time=21762 μs, Assignment=0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+ProbNum=169, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=7, TotalLiterals=78, Satisfiability=S, Time=1851 μs, Assignment=0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=170, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=8, TotalLiterals=78, Satisfiability=S, Time=17 μs, Assignment=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=171, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=9, TotalLiterals=78, Satisfiability=S, Time=55 μs, Assignment=0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=172, NumVars=16, NumClauses=26, LitsPerClause=3, TrialNum=10, TotalLiterals=78, Satisfiability=S, Time=3236 μs, Assignment=1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 25807. Max Unsat Time = 0
+Ave Sat Time = 7559.1. Ave UnSat Time = 0.0
+ProbNum=173, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=1, TotalLiterals=84, Satisfiability=S, Time=1745 μs, Assignment=0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+ProbNum=174, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=2, TotalLiterals=84, Satisfiability=S, Time=1696 μs, Assignment=0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=175, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=3, TotalLiterals=84, Satisfiability=S, Time=6302 μs, Assignment=0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=176, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=4, TotalLiterals=84, Satisfiability=S, Time=3242 μs, Assignment=0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=177, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=5, TotalLiterals=84, Satisfiability=S, Time=70236 μs, Assignment=1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+ProbNum=178, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=6, TotalLiterals=84, Satisfiability=S, Time=165583 μs, Assignment=1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+ProbNum=179, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=7, TotalLiterals=84, Satisfiability=S, Time=77652 μs, Assignment=0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0
+ProbNum=180, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=8, TotalLiterals=84, Satisfiability=S, Time=376 μs, Assignment=1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=181, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=9, TotalLiterals=84, Satisfiability=S, Time=17779 μs, Assignment=0,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+ProbNum=182, NumVars=18, NumClauses=28, LitsPerClause=3, TrialNum=10, TotalLiterals=84, Satisfiability=S, Time=403 μs, Assignment=0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 165583. Max Unsat Time = 0
+Ave Sat Time = 34501.4. Ave UnSat Time = 0.0
+ProbNum=183, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=1, TotalLiterals=90, Satisfiability=S, Time=547 μs, Assignment=0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=184, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=2, TotalLiterals=90, Satisfiability=S, Time=71189 μs, Assignment=0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+ProbNum=185, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=3, TotalLiterals=90, Satisfiability=S, Time=134538 μs, Assignment=0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+ProbNum=186, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=4, TotalLiterals=90, Satisfiability=S, Time=5005 μs, Assignment=1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+ProbNum=187, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=5, TotalLiterals=90, Satisfiability=S, Time=25426 μs, Assignment=0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+ProbNum=188, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=6, TotalLiterals=90, Satisfiability=S, Time=22082 μs, Assignment=0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=189, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=7, TotalLiterals=90, Satisfiability=S, Time=397227 μs, Assignment=0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ProbNum=190, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=8, TotalLiterals=90, Satisfiability=S, Time=6035 μs, Assignment=0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ProbNum=191, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=9, TotalLiterals=90, Satisfiability=S, Time=136168 μs, Assignment=1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+ProbNum=192, NumVars=20, NumClauses=30, LitsPerClause=3, TrialNum=10, TotalLiterals=90, Satisfiability=S, Time=760 μs, Assignment=0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 397227. Max Unsat Time = 0
+Ave Sat Time = 79897.7. Ave UnSat Time = 0.0
+ProbNum=193, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=1, TotalLiterals=96, Satisfiability=S, Time=308991 μs, Assignment=1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ProbNum=194, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=2, TotalLiterals=96, Satisfiability=S, Time=6233 μs, Assignment=0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=195, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=3, TotalLiterals=96, Satisfiability=S, Time=25279 μs, Assignment=1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=196, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=4, TotalLiterals=96, Satisfiability=S, Time=875 μs, Assignment=1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=197, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=5, TotalLiterals=96, Satisfiability=S, Time=70864 μs, Assignment=0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+ProbNum=198, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=6, TotalLiterals=96, Satisfiability=S, Time=11545 μs, Assignment=0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=199, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=7, TotalLiterals=96, Satisfiability=S, Time=13389 μs, Assignment=1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=200, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=8, TotalLiterals=96, Satisfiability=S, Time=1678 μs, Assignment=0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProbNum=201, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=9, TotalLiterals=96, Satisfiability=S, Time=158402 μs, Assignment=0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+ProbNum=202, NumVars=22, NumClauses=32, LitsPerClause=3, TrialNum=10, TotalLiterals=96, Satisfiability=S, Time=358397 μs, Assignment=0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+# Satisfied = 10. # Unsatisfied = 0
+Max Sat Time = 358397. Max Unsat Time = 0
+Ave Sat Time = 95565.3. Ave UnSat Time = 0.0
